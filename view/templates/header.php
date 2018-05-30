@@ -8,9 +8,6 @@
 <body>
 	<nav>
 	<ul>
-		<li><a href="<?= URL ?>home/index">Home</a></li>
-		<li><a href="<?= URL ?>student/index">Students</a></li>
-		<li><a href="<?= URL ?>song/index">Songs</a></li>
-		<li><a href="<?= URL ?>calendar/index">calendar</a></li>
+		<li><a href="#"></a>geen link lul</li>
 	</ul>
 	</nav>
